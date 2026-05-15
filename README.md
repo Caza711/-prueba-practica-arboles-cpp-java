@@ -153,79 +153,79 @@ Recorre el árbol por niveles utilizando una cola.
 
 ## Insertar Estudiante
 
-![Insertar](Captura%20de%20funciones/)1)InsertarEstudiante.png)
+![Insertar](Captura%20de%20funciones/InsertarEstudiante.png)
 
 ---
 
 ## Buscar Estudiante
 
-![Buscar](Captura%20de%20funciones/)2)BuscarEstudiante.png)
+![Buscar](Captura%20de%20funciones/BuscarEstudiante.png)
 
 ---
 
 ## Eliminar Estudiante
 
-![Eliminar](Captura%20de%20funciones/)3)EliminarEstudiante.png)
+![Eliminar](Captura%20de%20funciones/EliminarEstudiante.png)
 
 ---
 
 ## Recorrido Inorden
 
-![Inorden](Captura%20de%20funciones/)4)RecorridoInorden.png)
+![Inorden](Captura%20de%20funciones/RecorridoInorden.png)
 
 ---
 
 ## Recorrido Preorden
 
-![Preorden](Captura%20de%20funciones/)5)RecorridoPreorden.png)
+![Preorden](Captura%20de%20funciones/RecorridoPreorden.png)
 
 ---
 
 ## Recorrido Postorden
 
-![Postorden](Captura%20de%20funciones/)6)RrecorridoPostorden.png)
+![Postorden](Captura%20de%20funciones/RrecorridoPostorden.png)
 
 ---
 
 ## Recorrido BFS
 
-![BFS](Captura%20de%20funciones/)7)RecorridoBFS.png)
+![BFS](Captura%20de%20funciones/RecorridoBFS.png)
 
 ---
 
 ## Contar Estudiantes
 
-![Contar](Captura%20de%20funciones/)8)ContarEstudiantes.png)
+![Contar](Captura%20de%20funciones/ContarEstudiantes.png)
 
 ---
 
 ## Calcular Altura
 
-![Altura](Captura%20de%20funciones/)9)CalcularAltura.png)
+![Altura](Captura%20de%20funciones/CalcularAltura.png)
 
 ---
 
 ## Mayor Nota
 
-![MayorNota](Captura%20de%20funciones/)10)MayorNota.png)
+![MayorNota](Captura%20de%20funciones/MayorNota.png)
 
 ---
 
 ## Menor Nota
 
-![MenorNota](Captura%20de%20funciones/)11)MenorNota.png)
+![MenorNota](Captura%20de%20funciones/MenorNota.png)
 
 ---
 
 ## Mostrar Aprobados
 
-![Aprobados](Captura%20de%20funciones/)12)MostrarAprobados.png)
+![Aprobados](Captura%20de%20funciones/MostrarAprobados.png)
 
 ---
 
 ## Mostrar Reprobados
 
-![Reprobados](Captura%20de%20funciones/)13)MostrarReprobados.png)
+![Reprobados](Captura%20de%20funciones/MostrarReprobados.png)
 
 ---
 
